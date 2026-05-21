@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lab8</string>
+    <string name="signature_mouad">Réalisé par CHARRAJ Mouad aka ZER0-XR7</string>
+    <string name="status_ready_mouad">Statut : Prêt</string>
+    <string name="status_loading_mouad">Chargement en cours&#8230;</string>
+    <string name="status_image_ok_mouad">Image chargée avec succès !</string>
+    <string name="status_calc_done_mouad">Calcul terminé ! Somme = %1$d</string>
+    <string name="btn_thread_mouad">Charger image (Thread)</string>
+    <string name="btn_async_mouad">Calcul lourd (AsyncTask)</string>
+    <string name="btn_toast_mouad">Afficher Toast</string>
+    <string name="image_desc_mouad">Image de l\'application</string>
+    <string name="toast_msg_mouad">L\'interface est toujours réactive !</string>
+</resources>
